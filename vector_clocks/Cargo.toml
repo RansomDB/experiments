@@ -1,0 +1,13 @@
+[package]
+name = "vector_clocks"
+version = "0.1.0"
+authors = ["Andrew Meredith <andymeredith@gmail.com>"]
+
+[dependencies]
+bincode = "1.0"
+serde = "1.0"
+serde_derive = "1.0"
+futures = "0.1"
+tokio = "0.1"
+bytes = "0.4"
+tokio-serde-bincode = "0.2.1"
