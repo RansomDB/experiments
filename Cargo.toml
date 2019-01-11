@@ -1,4 +1,5 @@
 [workspace]
 members = [
+    "storage",
     "vector_clocks",
 ]
